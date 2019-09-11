@@ -1,4 +1,6 @@
-package com.company.map;
+package com.company.map.impl;
+
+import com.company.map.HashMap;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;

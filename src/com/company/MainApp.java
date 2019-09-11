@@ -1,6 +1,6 @@
 package com.company;
 
-import com.company.map.MyHashMap;
+import com.company.map.impl.MyHashMap;
 
 public class MainApp {
 

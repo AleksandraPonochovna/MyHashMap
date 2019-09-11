@@ -1,5 +1,6 @@
-package com.company.map;
+package com.company.test;
 
+import com.company.map.impl.MyHashMap;
 import org.junit.Assert;
 import org.junit.Test;
 
